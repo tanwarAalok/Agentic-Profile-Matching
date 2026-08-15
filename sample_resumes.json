@@ -1,0 +1,92 @@
+[
+  {
+    "candidate_id": "C101",
+    "name": "Sarah Chen",
+    "experience_years": 5.5,
+    "skills": ["React", "TypeScript", "Next.js", "Redux", "GraphQL", "Tailwind CSS"],
+    "education": "B.S. in Computer Science, UC Berkeley",
+    "summary": "Senior Frontend Engineer with 5+ years building scalable design systems and high-throughput web apps using React, Next.js, and TypeScript.",
+    "projects": "Migrated legacy monolith to Next.js SSR reducing page load by 42%. Built reusable component library used by 30+ developers."
+  },
+  {
+    "candidate_id": "C102",
+    "name": "David Miller",
+    "experience_years": 4.0,
+    "skills": ["React", "JavaScript", "Node.js", "AWS", "Docker", "REST APIs"],
+    "education": "B.S. in Software Engineering, UT Austin",
+    "summary": "Full Stack Engineer with strong React and cloud infrastructure background on AWS. Comfortable building microservices and SPAs.",
+    "projects": "Deployed containerized React/Node app on AWS ECS with CI/CD GitHub Actions pipeline."
+  },
+  {
+    "candidate_id": "C103",
+    "name": "Elena Rostova",
+    "experience_years": 3.0,
+    "skills": ["React", "TypeScript", "CSS3", "Webpack", "Jest", "Cypress"],
+    "education": "B.A. in Interactive Media, NYU",
+    "summary": "Frontend Specialist focused on UI/UX fidelity, TypeScript best practices, and automated testing with Jest and Cypress.",
+    "projects": "Implemented 90%+ test coverage for frontend fintech dashboard using Jest and Cypress."
+  },
+  {
+    "candidate_id": "C104",
+    "name": "Marcus Johnson",
+    "experience_years": 2.0,
+    "skills": ["React", "HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "education": "Full Stack Coding Bootcamp Graduate",
+    "summary": "Junior Frontend Developer enthusiastic about component-driven development and responsive web layouts.",
+    "projects": "Built responsive e-commerce storefront and personal portfolio apps."
+  },
+  {
+    "candidate_id": "C105",
+    "name": "Priya Sharma",
+    "experience_years": 6.5,
+    "skills": ["React", "TypeScript", "Next.js", "AWS", "Micro-frontends", "Node.js", "System Design"],
+    "education": "M.S. in Computer Science, Georgia Tech",
+    "summary": "Staff-level Frontend Architect specializing in React micro-frontends, AWS cloud native patterns, and performance tuning.",
+    "projects": "Architected multi-tenant enterprise portal supporting 500k DAU with 99.99% uptime."
+  },
+  {
+    "candidate_id": "C106",
+    "name": "Liam O'Connor",
+    "experience_years": 4.0,
+    "skills": ["Vue.js", "JavaScript", "Node.js", "PostgreSQL", "Tailwind CSS"],
+    "education": "B.S. in Information Systems, Trinity College",
+    "summary": "Frontend Developer primarily working with Vue.js and Node.js backend integration with minor exposure to React.",
+    "projects": "Led Vue.js rewrite of operational tooling and internal inventory trackers."
+  },
+  {
+    "candidate_id": "C107",
+    "name": "Ananya Patel",
+    "experience_years": 3.5,
+    "skills": ["React", "TypeScript", "GraphQL", "PostgreSQL", "Docker"],
+    "education": "B.Tech in Information Technology, NIT Trichy",
+    "summary": "Frontend Engineer focused on modern GraphQL data fetching, React hooks, state machines, and Dockerized dev workflows.",
+    "projects": "Optimized Apollo Client caching layer reducing API response latencies by 35%."
+  },
+  {
+    "candidate_id": "C108",
+    "name": "Carlos Gomez",
+    "experience_years": 1.5,
+    "skills": ["JavaScript", "HTML5", "CSS3", "Git", "Basic React"],
+    "education": "Associate Degree in Web Development",
+    "summary": "Associate UI Developer with foundational JavaScript and responsive styling skills.",
+    "projects": "Maintained landing pages and fixed UI bugs across legacy browser targets."
+  },
+  {
+    "candidate_id": "C109",
+    "name": "Hana Tanaka",
+    "experience_years": 5.0,
+    "skills": ["React", "TypeScript", "Webpack", "Performance Optimization", "Redux Toolkit", "CI/CD"],
+    "education": "B.Eng in Computer Systems, University of Tokyo",
+    "summary": "Senior Web Engineer dedicated to Core Web Vitals optimization, large-scale React bundles, and build pipeline enhancements.",
+    "projects": "Decreased bundle size by 50% via dynamic code splitting and tree-shaking optimizations."
+  },
+  {
+    "candidate_id": "C110",
+    "name": "Alex Rivera",
+    "experience_years": 4.5,
+    "skills": ["React Native", "React", "TypeScript", "Mobile Deployment", "GraphQL"],
+    "education": "B.S. in Computer Science, Florida State",
+    "summary": "Cross-platform mobile and web developer specializing in React and React Native unified codebases.",
+    "projects": "Maintained unified design system across React web and iOS/Android React Native apps."
+  }
+]
